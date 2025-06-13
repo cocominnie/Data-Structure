@@ -1,3 +1,4 @@
+/*Inserting a new node with global variables in C program*/
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<stdlib.h>
