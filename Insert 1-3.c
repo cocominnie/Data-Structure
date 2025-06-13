@@ -1,4 +1,4 @@
-/*Another way to insert a new node without global variables in C program*/
+/*Another way to insert a new node at beginning without global variables in C program*/
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<stdlib.h>
